@@ -12,5 +12,6 @@ public class Program
         // Und ab hier kommt Ihr eigener Quellcode...
         Console.WriteLine("Hallo, Wildau!");
         System.Console.WriteLine("erster test");
+                System.Console.WriteLine("zweiter test");
     }
 }
